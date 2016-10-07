@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-seajs-async-to-webpack-ensure",
+  "version": "1.0.0",
+  "description": "convert the \"require.async\" of seajs to \"require.ensure\" of webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael8090/babel-plugin-seajs-async-to-webpack-ensure.git"
+  },
+  "keywords": [
+    "babel",
+    "webpack",
+    "seajs"
+  ],
+  "author": "Huang Yong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michael8090/babel-plugin-seajs-async-to-webpack-ensure/issues"
+  },
+  "homepage": "https://github.com/michael8090/babel-plugin-seajs-async-to-webpack-ensure#readme"
+}
